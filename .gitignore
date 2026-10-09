@@ -1,0 +1,14 @@
+# 编译产物
+*.exe
+*.exe~
+*.out
+
+# 数据库文件(运行时生成,不应提交)
+*.db
+*.db-journal
+.gocache/
+
+# 操作系统 / 编辑器
+.DS_Store
+.idea/
+.vscode/
